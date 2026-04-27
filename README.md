@@ -12,7 +12,7 @@
 ```yam1
 Name: Aditya Ranjan, A Beginner Coder
 Located_in: Patna, Bihar, India
-Current_work: Studying In Class 9th
+Current_work: Studying In Class 11th
 Hobbies: Playing , Singing and Coding.
 I Like: Chess, Cricket , VolleyBall , Arijit Singh and Python.
 I Will Be An All Time Active User So Follow Up To See My Latest Beginner Projects.
