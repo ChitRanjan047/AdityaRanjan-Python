@@ -30,7 +30,7 @@ while True:
 
     #Processing Part 2
     if Q=="B" and Z=="Boy" :
-         if Y >= 18 :
+         if Y >= 21 :
             print("Yes , Of Course !!")
          else :
             print("No. You need to wait for",(21 - Y),"years more.")
